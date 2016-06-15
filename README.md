@@ -1,2 +1,0 @@
-# XMB
-XMB Rainmeter Skin 
